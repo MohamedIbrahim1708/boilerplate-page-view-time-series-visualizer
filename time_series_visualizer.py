@@ -6,7 +6,7 @@ register_matplotlib_converters()
 
 # Import data (Make sure to parse dates. Consider setting index column to 'date'.)
 df = None
-
+ 
 # Clean data
 df = None
 
